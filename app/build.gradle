@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "android.examample.androidcodelab_t1"
-        minSdk 16
+        minSdk 15
         targetSdk 31
         versionCode 1
         versionName "1.0"
